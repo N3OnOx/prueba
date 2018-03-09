@@ -1,0 +1,8 @@
+avion|plane
+vuelo|flight
+anden|lane
+aterrizar|land
+billete|ticket
+a tiempo|on time
+mesa|table
+silla|chair
